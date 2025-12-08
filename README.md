@@ -21,7 +21,7 @@
 
 ---
 
-> **注**：如果 icoding 出现类似于 `undefined%`，然后 **编译错误**，说明是 icoding 的问题，目前我只能想到等一段时间再交，才有可能解决问题
+> **注**：如果 icoding 出现类似于 `undefined%`，说明有可能是 icoding 的问题，目前我只能想到等一段时间再交，才有可能解决问题
 
 ### lab1
 
@@ -147,4 +147,5 @@
         - `./calc < test.c`
 
         - 其中 `test.c` 就是要测试的代码，可以自己写或用 `lab4-example`  和 `lab4-test_example` 里的样例来测试，如 `./calc < lab4-example/00.c`
+
 
